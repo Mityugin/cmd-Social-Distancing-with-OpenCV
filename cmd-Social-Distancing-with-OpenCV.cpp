@@ -59,7 +59,7 @@ int main()
 
     // Path to record output video
     string temppath = "C:\\TEMP\\output.mp4";
-    VideoWriter writer(temppath, VideoWriter::fourcc('m', 'p', '4', 'v'), 30, Size(800, 600));
+    VideoWriter writer(temppath, VideoWriter::fourcc('m', 'p', '4', 'v'), 30, Size(1280, 960));
 
     vector<Mat> detections;
     while (waitKey(1) < 1)
