@@ -1,6 +1,5 @@
 # cmd-Social-Distancing-with-OpenCV
 ![GitHub Logo](2020-11-24095039.png)
-Format: ![Alt Text](url)
 
 In this example I have connected to street webcam in Yalta and detecting social distance violations in real time with CUDA acceleration.
 ~~~
